@@ -43,12 +43,9 @@ Follow these steps to set up and run the CRUD operations MERN stack application 
 
 1. **Clone the Repository:**
 
-   ```bash
-
-
+   ```bash 
+	https://github.com/Jadhav-aparna/G23AI2003-Aparna-Docker-Project.git
    ```
-
-2. 
 
 ## Contribute and Support ❤️
 
